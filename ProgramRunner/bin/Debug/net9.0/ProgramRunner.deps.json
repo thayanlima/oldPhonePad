@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ProgramRunner/1.0.0": {
+        "dependencies": {
+          "OldPhonePadDecoder": "1.0.0"
+        },
+        "runtime": {
+          "ProgramRunner.dll": {}
+        }
+      },
+      "OldPhonePadDecoder/1.0.0": {
+        "runtime": {
+          "OldPhonePadDecoder.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgramRunner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OldPhonePadDecoder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

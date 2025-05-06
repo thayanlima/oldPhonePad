@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldPhonePadDecoder", "OldPhonePadDecoder\OldPhonePadDecoder.csproj", "{63BA3B4C-C501-43ED-953F-9EDC0D275284}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldPhonePadTests", "OldPhonePadTests\OldPhonePadTests.csproj", "{B895F50B-74BD-4D58-843F-2004488051A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramRunner", "ProgramRunner\ProgramRunner.csproj", "{97133448-9CAC-496D-8D68-F95EC0B9B9ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63BA3B4C-C501-43ED-953F-9EDC0D275284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BA3B4C-C501-43ED-953F-9EDC0D275284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BA3B4C-C501-43ED-953F-9EDC0D275284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BA3B4C-C501-43ED-953F-9EDC0D275284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B895F50B-74BD-4D58-843F-2004488051A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B895F50B-74BD-4D58-843F-2004488051A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B895F50B-74BD-4D58-843F-2004488051A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B895F50B-74BD-4D58-843F-2004488051A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97133448-9CAC-496D-8D68-F95EC0B9B9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97133448-9CAC-496D-8D68-F95EC0B9B9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97133448-9CAC-496D-8D68-F95EC0B9B9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97133448-9CAC-496D-8D68-F95EC0B9B9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
